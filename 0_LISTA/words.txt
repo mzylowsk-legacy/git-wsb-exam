@@ -6,8 +6,10 @@
     ballet
     battlefield
     bed
+    bear
     bird
     carbon
+    cat
     certain
     charm
     chase
@@ -22,6 +24,7 @@
     delivery
     designer
     direction
+    dog
     echo
     enthusiasm
     extinct
@@ -80,9 +83,6 @@
     sphere
     stamp
     strip
-    suntan
-    superintendent
-    sweat
     swim
     table
     tank
@@ -98,3 +98,4 @@
     voice
     wine
     writer
+    yeti
