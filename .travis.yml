@@ -7,4 +7,4 @@ matrix:
     before_script:
     - go get -u github.com/vbatts/git-validation
     script:
-    - git-validation -q -run DCO,short-subject -range 672476a..HEAD
+    - git-validation -q -run DCO,short-subject -range 6e57cbaf0d61e18a66d1e1beae9adcfab8cbd67a..HEAD
