@@ -1,0 +1,10 @@
+dist: xenial
+matrix:
+  include:
+  - language: go
+    sudo: required
+    go: 1.12.5
+    before_script:
+    - go get -u github.com/vbatts/git-validation
+    script:
+    - git-validation -q -run DCO,short-subject -range 672476a..HEAD
