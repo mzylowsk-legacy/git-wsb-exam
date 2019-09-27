@@ -13,6 +13,7 @@
     incident
     delivery
     sweat
+    dog
     accident
     coffin
     assembly
@@ -49,6 +50,7 @@
     priority
     rugby
     bed
+    cat
     enthusiasm
     unlawful
     suntan
@@ -82,6 +84,7 @@
     qualification
     sermon
     strip
+    bear
     liberty
     ankle
     prescription
@@ -93,6 +96,7 @@
     protect
     bird
     writer
+    yeti
     insure
     hike
     extinct
