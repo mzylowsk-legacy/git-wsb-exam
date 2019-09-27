@@ -5,14 +5,18 @@
     assembly
     ballet
     battlefield
+    bear
     bed
     bird
     carbon
+    cat
     certain
     charm
     chase
     circle
     clothes
+    obstacle
+    dog
     coffin
     comfortable
     craft
@@ -98,3 +102,4 @@
     voice
     wine
     writer
+    yeti
