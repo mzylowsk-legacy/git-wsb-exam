@@ -10,6 +10,8 @@
     bird
     carbon
     cat
+    bird
+    carbon
     certain
     charm
     chase
