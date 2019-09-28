@@ -11,6 +11,19 @@
     house
     jury
     incident
+<<<<<<< HEAD
+=======
+    delivery
+    sweat
+    dog
+    accident
+    coffin
+    comfortable
+    craft
+    cream
+    crosswalk
+    degree
+>>>>>>> fixed conflicts
     delivery
     sweat
     dog
@@ -84,6 +97,12 @@
     qualification
     sermon
     strip
+<<<<<<< HEAD
+=======
+    suntan
+    superintendent
+    sweat
+>>>>>>> fixed conflicts
     bear
     liberty
     ankle
