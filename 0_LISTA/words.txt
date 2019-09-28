@@ -13,17 +13,6 @@
     chase
     circle
     clothes
-<<<<<<< HEAD
-    obstacle
-    certain
-    house
-    jury
-    incident
-    delivery
-    sweat
-    accident
-=======
->>>>>>> 8b899ec34aa14192f2ccb71a4a823f9bd9fff475
     coffin
     comfortable
     craft
@@ -48,15 +37,6 @@
     honor
     house
     housewife
-<<<<<<< HEAD
-    priority
-    rugby
-    bed
-    enthusiasm
-    unlawful
-    suntan
-=======
->>>>>>> 8b899ec34aa14192f2ccb71a4a823f9bd9fff475
     hypothesis
     incident
     initiative
@@ -100,17 +80,9 @@
     sphere
     stamp
     strip
-<<<<<<< HEAD
-    liberty
-    ankle
-    prescription
-    charm
-    mail carrier
-=======
     suntan
     superintendent
     sweat
->>>>>>> 8b899ec34aa14192f2ccb71a4a823f9bd9fff475
     swim
     table
     tank
@@ -126,11 +98,3 @@
     voice
     wine
     writer
-<<<<<<< HEAD
-    insure
-    hike
-    extinct
-    rack
-    put
-=======
->>>>>>> 8b899ec34aa14192f2ccb71a4a823f9bd9fff475
