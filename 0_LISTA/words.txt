@@ -1,104 +1,125 @@
-    battlefield
-    tap
-    site
-    participate
-    circle
-    wine
-    acid
-    clothes
-    obstacle
-    certain
-    house
-    jury
-    incident
-    delivery
-    sweat
-    dog
-    accident
-    coffin
-    assembly
-    stamp
-    ribbon
-    superintendent
-    unpleasant
-    designer
-    chase
-    retirement
-    prison
-    therapist
-    nursery
-    sister
-    table
-    tile
-    sense
-    reflection
-    honor
-    prize
-    ballet
-    comfortable
-    scratch
-    trustee
-    skip
-    arrange
-    echo
-    vacuum
-    flush
-    direction
-    terms
-    sphere
-    housewife
-    priority
-    rugby
-    bed
-    cat
-    enthusiasm
-    unlawful
-    suntan
-    hypothesis
-    log
-    maid
-    mass
-    ghostwriter
-    recovery
-    crosswalk
-    carbon
-    force
-    sheet
-    sell
-    fool
-    reinforce
-    think
-    cream
-    inside
-    initiative
-    forecast
-    round
-    skeleton
-    tank
-    fur
-    kick
-    degree
-    giant
-    panel
-    craft
-    qualification
-    sermon
-    strip
-    bear
-    liberty
-    ankle
-    prescription
-    charm
-    mail carrier
-    swim
-    voice
-    government
-    protect
-    bird
-    writer
-    yeti
-    insure
-    hike
-    extinct
-    rack
-    put
+accident
+accident
+acid
+ankle
+ankle
+arrange
+assembly
+ballet
+battlefield
+bear
+bed
+bed
+bird
+carbon
+cat
+certain
+certain
+charm
+charm
+chase
+circle
+clothes
+coffin
+comfortable
+craft
+cream
+crosswalk
+degree
+delivery
+delivery
+designer
+direction
+dog
+echo
+enthusiasm
+enthusiasm
+extinct
+extinct
+flush
+fool
+force
+forecast
+fur
+ghostwriter
+giant
+government
+hike
+hike
+honor
+house
+house
+housewife
+hypothesis
+incident
+incident
+initiative
+inside
+insure
+insure
+jury
+jury
+kick
+liberty
+liberty
+log
+maid
+mail carrier
+mail carrier
+mass
+nursery
+obstacle
+obstacle
+panel
+participate
+prescription
+prescription
+priority
+priority
+prison
+prize
+protect
+put
+put
+qualification
+rack
+rack
+recovery
+reflection
+reinforce
+retirement
+ribbon
+round
+rugby
+rugby
+scratch
+sell
+sense
+sermon
+sheet
+sister
+site
+skeleton
+skip
+sphere
+stamp
+strip
+suntan
+sweat
+swim
+table
+tank
+tap
+terms
+therapist
+think
+tile
+trustee
+unlawful
+unlawful
+unpleasant
+vacuum
+voice
+wine
+writer
+yeti
