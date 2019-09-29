@@ -80,9 +80,12 @@
     sphere
     stamp
     strip
-    suntan
-    superintendent
-    sweat
+    bear
+    liberty
+    ankle
+    prescription
+    charm
+    mail carrier
     swim
     table
     tank
