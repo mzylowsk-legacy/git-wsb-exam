@@ -1,27 +1,20 @@
-    accident
+ accident
     acid
     ankle
     arrange
     assembly
     ballet
     battlefield
+    bear
     bed
     bird
     carbon
+    cat
     certain
     charm
     chase
     circle
     clothes
-    obstacle
-    certain
-    house
-    jury
-    incident
-    delivery
-    sweat
-    dog
-    accident
     coffin
     comfortable
     craft
@@ -31,6 +24,7 @@
     delivery
     designer
     direction
+    dog
     echo
     enthusiasm
     extinct
@@ -46,13 +40,6 @@
     honor
     house
     housewife
-    priority
-    rugby
-    bed
-    cat
-    enthusiasm
-    unlawful
-    suntan
     hypothesis
     incident
     initiative
@@ -96,12 +83,6 @@
     sphere
     stamp
     strip
-    bear
-    liberty
-    ankle
-    prescription
-    charm
-    mail carrier
     suntan
     superintendent
     sweat
@@ -121,8 +102,3 @@
     wine
     writer
     yeti
-    insure
-    hike
-    extinct
-    rack
-    put
