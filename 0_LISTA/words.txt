@@ -102,4 +102,3 @@
     wine
     writer
     yeti
-    extinct
