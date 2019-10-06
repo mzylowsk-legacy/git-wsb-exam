@@ -98,3 +98,7 @@
     voice
     wine
     writer
+    yeti
+    bear
+    cat
+    dog
