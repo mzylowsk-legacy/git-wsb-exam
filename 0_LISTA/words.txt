@@ -5,10 +5,12 @@
     assembly
     ballet
     battlefield
+    bear
     bed
     bird
     carbon
     certain
+    cat
     charm
     chase
     circle
@@ -17,11 +19,13 @@
     comfortable
     craft
     cream
+    creative
     crosswalk
     degree
     delivery
     designer
     direction
+    dog
     echo
     enthusiasm
     extinct
@@ -36,7 +40,7 @@
     hike
     honor
     house
-    housewife
+    housewis
     hypothesis
     incident
     initiative
@@ -78,10 +82,10 @@
     skeleton
     skip
     sphere
-    stamp
-    strip
     suntan
     superintendent
+    stamp
+    strip
     sweat
     swim
     table
@@ -98,3 +102,4 @@
     voice
     wine
     writer
+    yeti
