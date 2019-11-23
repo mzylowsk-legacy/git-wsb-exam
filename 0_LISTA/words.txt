@@ -1,100 +1,104 @@
-accident
-acid
-ankle
-arrange
-assembly
-ballet
-battlefield
-bed
-bird
-carbon
-certain
-charm
-chase
-circle
-clothes
-coffin
-comfortable
-craft
-cream
-crosswalk
-degree
-delivery
-designer
-direction
-echo
-enthusiasm
-extinct
-flush
-fool
-force
-forecast
-fur
-ghostwriter
-giant
-government
-hike
-honor
-house
-housewife
-hypothesis
-incident
-initiative
-inside
-insure
-jury
-kick
-liberty
-log
-maid
-mail carrier
-mass
-nursery
-obstacle
-panel
-participate
-prescription
-priority
-prison
-prize
-protect
-put
-qualification
-rack
-recovery
-reflection
-reinforce
-retirement
-ribbon
-round
-rugby
-scratch
-sell
-sense
-sermon
-sheet
-sister
-site
-skeleton
-skip
-sphere
-stamp
-strip
-suntan
-superintendent
-sweat
-swim
-table
-tank
-tap
-terms
-therapist
-think
-tile
-trustee
-unlawful
-unpleasant
-vacuum
-voice
-wine
-writer
+    accident
+    acid
+    ankle
+    arrange
+    assembly
+    ballet
+    battlefield
+    bed
+    bear
+    bird
+    carbon
+    cat
+    certain
+    charm
+    chase
+    circle
+    clothes
+    coffin
+    comfortable
+    craft
+    cream
+    crosswalk
+    degree
+    delivery
+    designer
+    direction
+    dog
+    echo
+    enthusiasm
+    extinct
+    flush
+    fool
+    force
+    forecast
+    fur
+    ghostwriter
+    giant
+    government
+    hike
+    honor
+    house
+    housewife
+    hypothesis
+    incident
+    initiative
+    inside
+    insure
+    jury
+    kick
+    liberty
+    log
+    maid
+    mail carrier
+    mass
+    nursery
+    obstacle
+    panel
+    participate
+    prescription
+    priority
+    prison
+    prize
+    protect
+    put
+    qualification
+    rack
+    recovery
+    reflection
+    reinforce
+    retirement
+    ribbon
+    round
+    rugby
+    scratch
+    sell
+    sense
+    sermon
+    sheet
+    sister
+    site
+    skeleton
+    skip
+    sphere
+    stamp
+    strip
+    suntan
+    superintendent
+    sweat
+    swim
+    table
+    tank
+    tap
+    terms
+    therapist
+    think
+    tile
+    trustee
+    unlawful
+    unpleasant
+    vacuum
+    voice
+    wine
+    writer
+    yeti
