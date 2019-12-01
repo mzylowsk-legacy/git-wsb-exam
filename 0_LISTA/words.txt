@@ -45,7 +45,6 @@
     initiative
     inside
     insure
-    insure
     jury
     kick
     liberty
