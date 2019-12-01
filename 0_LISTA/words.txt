@@ -5,9 +5,11 @@
     assembly
     ballet
     battlefield
+    bear
     bed
     bird
     carbon
+    cat
     certain
     charm
     chase
@@ -22,6 +24,7 @@
     delivery
     designer
     direction
+    dog
     echo
     enthusiasm
     extinct
@@ -41,6 +44,7 @@
     incident
     initiative
     inside
+    insure
     insure
     jury
     kick
@@ -98,3 +102,4 @@
     voice
     wine
     writer
+    yeti
